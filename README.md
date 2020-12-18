@@ -18,7 +18,7 @@ Logins
   To understand the flow of the app please refer :
   https://github.ccs.neu.edu/amrutabpathak/FoodiesDelight/blob/master/resources/FoodiesDelight.pptx
   
-  
+  https://github.ccs.neu.edu/amrutabpathak/FoodiesDelight/blob/master/resources/Foodies_Delight_App_Working.mp4
   
   
   Tech details:
