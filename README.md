@@ -16,6 +16,9 @@ Logins
   Since we did not want any login checks in our course.
   
   To understand the flow of the app please refer :
+  https://github.ccs.neu.edu/amrutabpathak/FoodiesDelight/blob/master/resources/FoodiesDelight.pptx
+  
+  
   
   
   Tech details:
