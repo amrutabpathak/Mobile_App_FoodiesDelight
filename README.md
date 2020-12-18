@@ -59,6 +59,9 @@ https://developer.android.com/jetpack/androidx/releases/recyclerview
 https://antonioleiva.com/recyclerview-listener/
 https://abhiandroid.com/ui/nesting-of-layouts-android.html
 https://www.youtube.com/channel/UCllewj2bGdqB8U9Ld15INAg
+
+   Reused some of the components . Credits to hanishk
+
 https://github.com/hanishk/Eat_It/
 
 
