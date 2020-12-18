@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "275873416401",
+    "firebase_url": "https://foodiesdelight-e21ff.firebaseio.com",
+    "project_id": "foodiesdelight-e21ff",
+    "storage_bucket": "foodiesdelight-e21ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275873416401:android:d9b0b77d41f4abb9bcf1f0",
+        "android_client_info": {
+          "package_name": "edu.neu.mad_sea.foodiesdelight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275873416401-tnq9bso2v9ui6rpcvcivjjh79a0hghfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6uPzV6T-CBM_b0QtiuEp1xBwi7NIrZqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275873416401-tnq9bso2v9ui6rpcvcivjjh79a0hghfa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

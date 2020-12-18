@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FoodiesDelight</string>
+    <string name="fireBaseUsers">users</string>
+    <string name="fireBaseRestUsers">restusers</string>
+    <string name="Restuarants">restaurants</string>
+    <string name="restTitle">restTitle</string>
+    <string name="restLocation">restLocation</string>
+    <string name="restDesc">restDesc</string>
+    <string name="restImage">restImage</string>
+    <string name="restBGImg">restBGImg</string>
+    <string name="selectedRestaurantMenu">Menu</string>
+    <string name="Orders">Orders</string>
+</resources>
