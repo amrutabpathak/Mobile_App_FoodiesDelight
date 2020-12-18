@@ -96,10 +96,16 @@ public class RestSideViewOrderActivity extends AppCompatActivity {
         protected void onBindViewHolder(@NonNull RestOrderHolder holder, int position, @NonNull Order model) {
             str="";
             Log.d(TAG1, "onBindViewHolder: "+adapter.getItemCount());//getItem(0).getCartItems().get(0).getDishName());
-            for(int i = 0;i < adapter.getItemCount()-1; i++){
-                str+=adapter.getItem(i+1).getCartItems().get(0).getDishName() + "  "+ adapter.getItem(i+1).getCartItems().get(0).getDishQty();
-                str+="\n";
+            if(adapter.getItemCount()==1){
+                str+=adapter.getItem(0).getCartItems().get(0).getDishName() + "  "+ adapter.getItem(0).getCartItems().get(0).getDishQty();
+            }else {
+                for (int i = 0; i < adapter.getItemCount() - 1; i++) {
+                    str += adapter.getItem(i + 1).getCartItems().get(0).getDishName() + "  " + adapter.getItem(i + 1).getCartItems().get(0).getDishQty();
+                    str += "\n";
+                }
             }
+            Log.d(TAG, "onBindViewHolder: "+str);
+            Log.d(TAG, "onBindViewHolder: ");
             holder.getUserName().setText(model.getUserName());
             holder.getRestName().setText(model.getRestaurantName());
             /*for(CartItem c: model.getCartItems()){
