@@ -48,15 +48,15 @@ Logins
   Wanted a nice chat functionality between customer and restuarant personnel.
   Order Status update and UI.
   
-  Acknowledgements and References:
+  Acknowledgements and References Thanks to the following resources:
+  
   https://firebase.google.com/docs
-  https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase
+https://developer.android.com/reference/android/database/sqlite/SQLiteDatabase
 https://developer.android.com/jetpack/androidx/releases/recyclerview
 https://antonioleiva.com/recyclerview-listener/
 https://abhiandroid.com/ui/nesting-of-layouts-android.html
 https://www.youtube.com/channel/UCllewj2bGdqB8U9Ld15INAg
 https://github.com/hanishk/Eat_It/
-
 
 
 
